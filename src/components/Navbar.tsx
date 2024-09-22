@@ -23,7 +23,7 @@ function Navbar({ className }: { className?: string }) {
                <div className="flex flex-col space-y-4 text-sm">
                <HoveredLink href="/courses">All Courses</HoveredLink>
             <HoveredLink href="/courses">
-              Basic Music Theory
+              Basic Music Theory with yash
             </HoveredLink>
             <HoveredLink href="/courses">
               Advanced Composition
